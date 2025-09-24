@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Verma",
+    "mobile": "9812345678",
+    "today": true,
+    "advance": "2500",
+    "salaryPerDay": "500",
+    "salary": "15000",
+    "lastIncrementDate": "2025-04-01",
+    "lastIncrement": "1000"
+  },
+  {
+    "id": 2,
+    "name": "Anjali Singh",
+    "mobile": "9876543210",
+    "today": true,
+    "advance": "0",
+    "salaryPerDay": "450",
+    "salary": "13500",
+    "lastIncrementDate": "2025-03-20",
+    "lastIncrement": "800"
+  },
+  {
+    "id": 3,
+    "name": "Deepak Joshi",
+    "mobile": "9822334455",
+    "today": false,
+    "advance": "3000",
+    "salaryPerDay": "400",
+    "salary": "12000",
+    "lastIncrementDate": "2025-01-15",
+    "lastIncrement": "700"
+  },
+  {
+    "id": 4,
+    "name": "Meena Kumari",
+    "mobile": "9819988776",
+    "today": true,
+    "advance": "500",
+    "salaryPerDay": "350",
+    "salary": "10500",
+    "lastIncrementDate": "2025-05-05",
+    "lastIncrement": "500"
+  },
+  {
+    "id": 5,
+    "name": "Suresh Patel",
+    "mobile": "9797979797",
+    "today": false,
+    "advance": "4500",
+    "salaryPerDay": "600",
+    "salary": "18000",
+    "lastIncrementDate": "2025-02-10",
+    "lastIncrement": "1200"
+  }
+]
